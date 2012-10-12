@@ -76,7 +76,7 @@ OSRM.Localization["it"] = {
 "W": "ovest",
 "NE": "nord-est",
 "SE": "sud-est",
-"SW": "sudo-vest",
+"SW": "sud-ovest",
 "NW": "nord-ovest",
 // driving directions
 // %s: road name
