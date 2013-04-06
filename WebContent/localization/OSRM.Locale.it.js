@@ -64,7 +64,7 @@ OSRM.Localization["it"] = {
 "DISTANCE": "Distanza",
 "DURATION": "Durata",
 "YOUR_ROUTE_IS_BEING_COMPUTED": "Sto calcolando il tuo percorso",
-"NO_ROUTE_FOUND": "Nessun percorso possibile",
+"NO_ROUTE_FOUND": "Nessun percorso trovato",
 // printing
 "OVERVIEW_MAP": "Mappa d'insieme",
 // routing engines
